@@ -1,23 +1,42 @@
-# Timetable Management System
+# 📅 Timetable Management System
 
-## 📌 Overview  
-The **Timetable Management System** is a web-based system designed to streamline timetable management for educational institutions. It offers role-based access with dedicated dashboards for **Admins, Faculty, and Students** to efficiently manage schedules, lectures, and attendance.  
+## 🚀 Overview
+The **Timetable Management System** is a web-based application built using **JSP, Servlets, Apache Tomcat, and MySQL**. It simplifies the management of academic schedules while ensuring **concurrency-free** operations and real-time **attendance tracking**. The system supports three roles: **Admin, Faculty, and Students**, each with specific functionalities.
 
-## 🚀 Features  
-- **Admin Panel:** Generate and manage department timetables.  
-- **Faculty Dashboard:** View schedules and manage lectures & attendance.  
-- **Student Dashboard:** Access timetables, track attendance, and view daily classes.  
-- **User Authentication:** Role-based login with a simple UI.  
+---
 
-## 🛠 Tech Stack  
+## 🎯 Features
+
+### 🏫 **Admin Features**
+✅ **Generate Timetable** – Prevents scheduling conflicts (e.g., no two lectures in the same period/classroom).  
+✅ **Update Timetable** – Modify existing schedules with validation.  
+✅ **User Management** – Create and manage faculty & student credentials.  
+✅ **Database Access** – Full control over user and timetable data.
+
+### 👨‍🏫 **Faculty Features**
+✅ **View Timetable** – Read-only access to the weekly schedule.  
+✅ **Today's Classes** – Fetch scheduled lectures dynamically based on the system date.  
+✅ **Attendance Marking** – Record student attendance in real time, preventing duplicate entries.
+
+### 🎓 **Student Features**
+✅ **View Timetable** – Read-only access to their academic schedule.  
+✅ **Today's Schedule** – Retrieves the current day's class schedule dynamically.  
+✅ **Attendance Tracking** – Real-time status updates for marked attendance.  
+✅ **Attendance Report** – View overall and subject-wise attendance details.
+
+---
+
+## 🛠️ Technology Stack
 - **Frontend:** JSP, HTML, CSS  
-- **Backend:** Servlet, JSP  
+- **Backend:** Servlets, JSP  
 - **Database:** MySQL  
 - **Server:** Apache Tomcat  
 
-## 🎯 Functional Highlights  
-✔ Dynamic timetable creation & updates  
-✔ Attendance tracking system  
-✔ User-friendly dashboards for efficient access  
+---
 
-This project simplifies timetable management, ensuring better organization and tracking for educational institutions. 🚀  
+## 📹 Demo Video  
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+
+📌 *Click on the image to watch the demo on YouTube.*
+
+---
