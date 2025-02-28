@@ -35,7 +35,7 @@ The **Timetable Management System** is a web-based application built using **JSP
 ---
 
 ## 📹 Demo Video  
-[![Watch the video](https://img.youtube.com/vi/EwqqRS4uJiOvgOy/maxresdefault.jpg)](https://youtu.be/v5E9qqzp1X8?si=_EwqqRS4uJiOvgOy)  
+[![Watch the video](https://i3.ytimg.com/vi/v5E9qqzp1X8/maxresdefault.jpg)](https://youtu.be/v5E9qqzp1X8?si=_EwqqRS4uJiOvgOy)  
 
 📌 *Click on the image to watch the demo on YouTube.*
 
